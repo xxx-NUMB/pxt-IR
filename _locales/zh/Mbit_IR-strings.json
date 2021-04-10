@@ -1,0 +1,23 @@
+{
+	"RemoteButton.num0|block":"0 键",
+	"RemoteButton.num1|block":"1 键",
+	"RemoteButton.num2|block":"2 键",
+	"RemoteButton.num3|block":"3 键",
+	"RemoteButton.num4|block":"4 键",
+	"RemoteButton.num5|block":"5 键",
+	"RemoteButton.num6|block":"6 键",
+	"RemoteButton.num7|block":"7 键",
+	"RemoteButton.num8|block":"8 键",
+	"RemoteButton.num9|block":"9 键",
+	"RemoteButton.redR|block":"# 键",
+	"RemoteButton.redL|block":"* 键",
+	"RemoteButton.up|block":"↑ 键",
+	"RemoteButton.left|block":"← 键",
+	"RemoteButton.ok|block":"OK 键",
+	"RemoteButton.right|block":"→ 键",
+	"RemoteButton.down|block":"↓ 键",
+
+	"Mbit_IR|block":"红外遥控",
+	"Mbit_IR.onPressEvent|block": "当遥控上的 |%btn| 按下时",
+	"Mbit_IR.init|block": "红外接收头的连接引脚为 %pin"
+}
